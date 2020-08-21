@@ -183,5 +183,5 @@ If you have used ``zc.buildout`` for installation, you can build the HTML
 documentation locally:
 
 .. code-block:: console
-
+   $ bin/pip install tempstorage
    $ bin/make-docs
